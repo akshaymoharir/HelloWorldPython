@@ -8,11 +8,11 @@ This is simple Hello World program that prints:
 
 To run program with Python2, browse to root of this repo and run following command:
 
-`$ python HelloWorld.py`
+`$ python HelloWorld/HelloWorld.py`
 
 
 To run program with Python3, browse to root of this repo and run following command:
 
-`$ python3 HelloWorld.py`
+`$ python3 HelloWorld/HelloWorld.py`
 
 Thank you!
